@@ -1,5 +1,4 @@
-practice questions for AP practical
-
+CP DIRECTLY FROM HERE OR REMOVE &nbsp; from notepad then cp
 
 
 1\. Create an android application to pass the data from one activity to another activity
@@ -2425,3 +2424,4 @@ distributionUrl=https\\://services.gradle.org/distributions/gradle-8.5-bin.zip
 zipStoreBase=GRADLE\_USER\_HOME
 
 zipStorePath=wrapper/dists
+
